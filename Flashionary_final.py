@@ -28,12 +28,7 @@ def translate ():
 tieu_de = Label(text=" Peekaboo Translation",font=(("Times new roman"),40))
 tieu_de.pack(side=TOP)
 
-#box
-box1 = Text (font=(("Times new roman"),12),height=10,width=60)
-box1.pack(pady=20)
 
-box2 = Text (font=(("Times new roman"),12),height=10,width=60)
-box2.pack(pady=60)
 
 #button
 translate_button=Button(text="Translate",font=(("Times new roman"),14),command=translate)
