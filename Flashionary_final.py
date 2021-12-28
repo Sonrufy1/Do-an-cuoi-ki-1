@@ -44,3 +44,4 @@ translate_clear.place (x=670,y=300)
 
 screen.mainloop()
 
+#Quốc Thịnh
